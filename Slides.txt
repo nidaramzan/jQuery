@@ -1,0 +1,19 @@
+INTRO TO jQuery:
+
+https://webdev.slides.com/coltsteele/jquery-methods-1-37-38-79-60#/1
+
+jQuery SELECTORS:
+
+https://webdev.slides.com/coltsteele/deck-35-76#/
+
+jQuery METHODS:
+
+https://webdev.slides.com/coltsteele/jquery-methods-1-77#/
+
+jQuery Events:
+
+https://webdev.slides.com/coltsteele/jquery-methods-1-37-78#/
+
+jQuery Animations:
+
+https://webdev.slides.com/coltsteele/jquery-methods-1-37-38-79#/
